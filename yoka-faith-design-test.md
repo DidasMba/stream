@@ -1,3 +1,4 @@
+
 # Yoka — UI/UX Design Take-Home Test
 ### Faith / Foi Vertical
 
@@ -93,5 +94,14 @@ Shared here so there are no surprises:
 Not required, and won't count against you if skipped: a short note (even just a few bullet points) on how you'd think about **visual differentiation between a large church workspace and a single independent preacher** — should they look and feel different, or consistent? There's no single right answer here; we're interested in how you think about it.
 
 ---
+<img width="1080" height="488" alt="WhatsApp Image 2026-09-14 at 16 55 28" src="https://github.com/user-attachments/assets/7f3a4dcc-1170-41ad-88db-45201679953a" />
+<img width="1080" height="734" alt="WhatsApp Image 2026-09-14 at 17 04 43 (3)" src="https://github.com/user-attachments/assets/e9dfbdb2-048f-4eaa-a03e-19459d653903" />
+<img width="948" height="1028" alt="WhatsApp Image 2026-09-14 at 17 04 43 (2)" src="https://github.com/user-attachments/assets/160086b7-0602-4ac9-97a5-c27242bbd8ff" />
+<img width="645" height="1080" alt="WhatsApp Image 2026-09-14 at 17 04 43 (1)" src="https://github.com/user-attachments/assets/283a4c77-7020-4a81-9188-fc8fdc0107f5" />
+<img width="1080" height="961" alt="WhatsApp Image 2026-09-14 at 17 04 43" src="https://github.com/user-attachments/assets/db141455-f086-4251-b28e-f39a29ddc8f0" />
+<img width="1001" height="815" alt="WhatsApp Image 2026-09-14 at 16 55 42" src="https://github.com/user-attachments/assets/93ec863c-31d8-4c29-9744-a4b0b79dfa2f" />
+<img width="742" height="778" alt="WhatsApp Image 2026-09-14 at 16 55 35" src="https://github.com/user-attachments/assets/c2a78ede-7171-468a-9e14-b36e57a0cf83" />
+
+
 
 *Questions about this brief? Reach out any time before the deadline — asking a good clarifying question is a perfectly good use of the process.*
