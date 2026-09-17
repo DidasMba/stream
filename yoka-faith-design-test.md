@@ -101,6 +101,8 @@ Not required, and won't count against you if skipped: a short note (even just a 
 <img width="1080" height="961" alt="WhatsApp Image 2026-09-14 at 17 04 43" src="https://github.com/user-attachments/assets/db141455-f086-4251-b28e-f39a29ddc8f0" />
 <img width="1001" height="815" alt="WhatsApp Image 2026-09-14 at 16 55 42" src="https://github.com/user-attachments/assets/93ec863c-31d8-4c29-9744-a4b0b79dfa2f" />
 <img width="742" height="778" alt="WhatsApp Image 2026-09-14 at 16 55 35" src="https://github.com/user-attachments/assets/c2a78ede-7171-468a-9e14-b36e57a0cf83" />
+logo:
+<img width="600" alt="Yoka logo" src="./yook.jpeg" />
 
 
 
